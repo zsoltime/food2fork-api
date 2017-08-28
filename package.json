@@ -1,0 +1,13 @@
+{
+  "name": "food2fork-api",
+  "version": "0.1.0",
+  "description": "Food2fork API wrapper",
+  "main": "index.js",
+  "repository": "https://github.com/zsoltime/food2fork-api",
+  "author": "Zsolt Meszaros <zsolt@sowad.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "express": "^4.15.4"
+  }
+}
